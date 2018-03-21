@@ -1,0 +1,27 @@
+{
+  "basics":{
+    "photo":"pic.svg",
+    "name":"vaishnavi",
+    "email":"vishuteja98@gmail.com",
+    "mobile":"7675941565"
+  },
+  "education":[
+    {
+    "course":"B.tech(computer science and engineering)",
+    "college":["G PULLAIAH COLLEGE OF ENGINEERING",
+      "2015-2019",
+      "70"]
+},
+{
+"course":"Intermediate(MPC)",
+"college":["NARAYANA JUNIOR COLLEGE",
+  "2013-2015",
+  "88"]
+},
+{
+"course":"SSC",
+"college":["st.joseph's school",
+  "2012-2013",
+  "90"]
+}]
+}
