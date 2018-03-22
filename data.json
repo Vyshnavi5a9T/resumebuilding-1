@@ -23,5 +23,20 @@
 "college":["st.joseph's school",
   "2012-2013",
   "90"]
-}]
+}
+],
+"skills":[
+  {
+    "name":"web technology",
+    "value":"HTML,CSS"
+  },
+  {
+    "name":"operating system",
+    "value":"Linux,Windows"
+  },
+  {
+    "name":"programming Language",
+    "value":"C,C++,Java"
+  }
+]
 }
